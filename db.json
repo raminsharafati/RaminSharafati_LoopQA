@@ -5,6 +5,7 @@
       "BikeImageName": "https://raw.githubusercontent.com/raminsharafati/demo/master/kawasaki.jpg",
       "BikeID": 1,
       "BikeTopSpeed": "Top Speed: 209.4 MPH",
+      "BikeManu": "Manufacturer: Kawasaki",
       "BikeAccelerate": "0 - 60: 2.8 Seconds",
       "BikeSite": "https://www.kawasaki.com/product/details/2019-Ninja-H2",
       "BikeDescription": "This Ninja Kawasaki H2 is the fastest bike up-to-date. Piercing fast with stock turbo installed. This bike cost over $40,000 USD and is really rare to find/buy."
@@ -14,6 +15,7 @@
       "BikeImageName": "https://raw.githubusercontent.com/raminsharafati/demo/master/sazuki.jpg",
       "BikeID": 2,
       "BikeTopSpeed": "Top Speed: 194 MPH",
+      "BikeManu": "Manufacturer: Sazuki",
       "BikeAccelerate": "0 - 60: 2.9 Seconds",
       "BikeSite": "https://en.wikipedia.org/wiki/Suzuki_Hayabusa",
       "BikeDescription": "Really wide body kit and this bike is a throwback for superbike enthusiasts. This bike took the place of being one of the fastest superbike. Great handling and amazing sound."
@@ -23,6 +25,7 @@
       "BikeImageName": "https://raw.githubusercontent.com/raminsharafati/demo/master/ducatii.jpg",
       "BikeID": 3,
       "BikeTopSpeed": "Top Speed: 205 MPH",
+      "BikeManu": "Manufacturer: Ducati",
       "BikeAccelerate": "0 - 60: 2.89 Seconds",
       "BikeSite": "https://en.wikipedia.org/wiki/Ducati_1199",
       "BikeDescription": "Amazing strong material for this bike due to Ducati's reputation. Ducati is like the exotics of superbike. This bike is the fastest Ducati, which puts it in the spotlight for being high-performance."
@@ -32,6 +35,7 @@
       "BikeImageName": "https://raw.githubusercontent.com/raminsharafati/demo/master/bmw.jpg",
       "BikeID": 4,
       "BikeTopSpeed": "Top Speed: 190 MPH",
+      "BikeManu": "Manufacturer: BMW",
       "BikeAccelerate": "0 - 60: 2.6 Seconds",
       "BikeSite": "https://www.bmwmotorcycles.com/en/models/sport/s1000rr-2020.html",
       "BikeDescription": "Yes indeed, BMW makes superbikes and the is the best of all models when it comes to performance. This superbike is spectacular on tracks and for racing. Strong modeled tires to keep it on the road with no disturbance."
@@ -41,6 +45,7 @@
       "BikeImageName": "https://raw.githubusercontent.com/raminsharafati/demo/master/apriliaaa.jpg",
       "BikeID": 5,
       "BikeTopSpeed": "Top Speed: 169 MPH",
+      "BikeManu": "Manufacturer: Aprilia",
       "BikeAccelerate": "0 - 60: 2.9 Seconds",
       "BikeSite": "https://en.wikipedia.org/wiki/Aprilia_RSV_1000_R",
       "BikeDescription": "When it comes to top-speed this superbike took the position as being the fastest for a full-decade. This superbike is fully equiped with turbo and stock oil cooler which allows the engine to run to its optimal performance."
