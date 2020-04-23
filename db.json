@@ -1,7 +1,7 @@
 {
   "BikeModels": [
     {
-      "BikeName": "Ninja H2",
+      "BikeName": "2019 Ninja H2",
       "BikeImageName": "https://raw.githubusercontent.com/raminsharafati/demo/master/kawasaki.jpg",
       "BikeID": 1,
       "BikeTopSpeed": "209.4 MPH",
@@ -11,7 +11,7 @@
       "BikeLogo": ""
     },
     {
-      "BikeName": "Hayabusa",
+      "BikeName": "1999 Hayabusa",
       "BikeImageName": "https://raw.githubusercontent.com/raminsharafati/demo/master/sazuki.jpg",
       "BikeID": 2,
       "BikeTopSpeed": "194 MPH",
@@ -21,7 +21,7 @@
       "BikeLogo": ""
     },
     {
-      "BikeName": "1199 Panigale R",
+      "BikeName": "2013 1199 Panigale R",
       "BikeImageName": "https://raw.githubusercontent.com/raminsharafati/demo/master/ducatii.jpg",
       "BikeID": 3,
       "BikeTopSpeed": "205 MPH",
@@ -31,7 +31,7 @@
       "BikeLogo": ""
     },
     {
-      "BikeName": "S1000RR",
+      "BikeName": "2020 S1000RR",
       "BikeImageName": "https://raw.githubusercontent.com/raminsharafati/demo/master/bmw.jpg",
       "BikeID": 4,
       "BikeTopSpeed": "190 MPH",
@@ -41,7 +41,7 @@
       "BikeLogo": ""
     },
     {
-      "BikeName": "RSV 1000R",
+      "BikeName": "2007 RSV 1000R",
       "BikeImageName": "https://raw.githubusercontent.com/raminsharafati/demo/master/aprilia.jpg",
       "BikeID": 5,
       "BikeTopSpeed": "169 MPH",
