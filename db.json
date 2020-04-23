@@ -1,11 +1,55 @@
 {
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
+  "BikeModel": [
+    {
+      "BikeName": "Ninja H2",
+      "BikeImageName": "",
+      "BikeID": 1,
+      "BikeTopSpeed": "8.0 mi",
+      "BikeAccelerate": "Old Rag Mountain",
+      "BikeSite": "5.5 hrs",
+      "BikeDescription": "https://www.hikingupward.com/snp/oldrag/",
+      "BikeLogo": ""
+    },
+    {
+      "BikeName": "Hayabusa",
+      "BikeImageName": "",
+      "BikeID": 2,
+      "BikeTopSpeed": "8.0 mi",
+      "BikeAccelerate": "Old Rag Mountain",
+      "BikeSite": "5.5 hrs",
+      "BikeDescription": "https://www.hikingupward.com/snp/oldrag/",
+      "BikeLogo": ""
+    },
+    {
+      "BikeName": "1199 Panigale R",
+      "BikeImageName": "",
+      "BikeID": 3,
+      "BikeTopSpeed": "8.0 mi",
+      "BikeAccelerate": "Old Rag Mountain",
+      "BikeSite": "5.5 hrs",
+      "BikeDescription": "https://www.hikingupward.com/snp/oldrag/",
+      "BikeLogo": ""
+    },
+    {
+      "BikeName": "S1000RR",
+      "BikeImageName": "",
+      "BikeID": 4,
+      "BikeTopSpeed": "8.0 mi",
+      "BikeAccelerate": "Old Rag Mountain",
+      "BikeSite": "5.5 hrs",
+      "BikeDescription": "https://www.hikingupward.com/snp/oldrag/",
+      "BikeLogo": ""
+    },
+    {
+      "BikeName": "RSV 1000R",
+      "BikeImageName": "",
+      "BikeID": 5,
+      "BikeTopSpeed": "8.0 mi",
+      "BikeAccelerate": "Old Rag Mountain",
+      "BikeSite": "5.5 hrs",
+      "BikeDescription": "https://www.hikingupward.com/snp/oldrag/",
+      "BikeLogo": ""
+    }
   ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ]
+  "Status": "OK"
 }
