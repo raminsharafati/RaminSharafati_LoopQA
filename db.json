@@ -1,8 +1,8 @@
 {
-  "BikeModel": [
+  "BikeModels": [
     {
       "BikeName": "Ninja H2",
-      "BikeImageName": "",
+      "BikeImageName": "https://raw.githubusercontent.com/raminsharafati/demo/master/kawasaki.jpg",
       "BikeID": 1,
       "BikeTopSpeed": "8.0 mi",
       "BikeAccelerate": "Old Rag Mountain",
@@ -12,7 +12,7 @@
     },
     {
       "BikeName": "Hayabusa",
-      "BikeImageName": "",
+      "BikeImageName": "https://raw.githubusercontent.com/raminsharafati/demo/master/sazuki.jpg",
       "BikeID": 2,
       "BikeTopSpeed": "8.0 mi",
       "BikeAccelerate": "Old Rag Mountain",
@@ -22,7 +22,7 @@
     },
     {
       "BikeName": "1199 Panigale R",
-      "BikeImageName": "",
+      "BikeImageName": "https://raw.githubusercontent.com/raminsharafati/demo/master/ducati.jpg",
       "BikeID": 3,
       "BikeTopSpeed": "8.0 mi",
       "BikeAccelerate": "Old Rag Mountain",
@@ -32,7 +32,7 @@
     },
     {
       "BikeName": "S1000RR",
-      "BikeImageName": "",
+      "BikeImageName": "https://raw.githubusercontent.com/raminsharafati/demo/master/bmw.jpg",
       "BikeID": 4,
       "BikeTopSpeed": "8.0 mi",
       "BikeAccelerate": "Old Rag Mountain",
@@ -42,7 +42,7 @@
     },
     {
       "BikeName": "RSV 1000R",
-      "BikeImageName": "",
+      "BikeImageName": "https://raw.githubusercontent.com/raminsharafati/demo/master/aprilia.jpg",
       "BikeID": 5,
       "BikeTopSpeed": "8.0 mi",
       "BikeAccelerate": "Old Rag Mountain",
